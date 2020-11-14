@@ -1,4 +1,4 @@
-# Javascript Excercise: Magic Eight Ball
+# Codecademy Excercise #3: Javascript Conditional Syntax
 
 ## Magic Eight Ball
 
